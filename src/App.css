@@ -16,3 +16,13 @@ body {
     font-size: 12px;
     justify-content: center;
 }
+  
+.card-movido {
+transform: translateX(-280px);
+transition: transform 0.5s ease-in-out
+}
+
+.cardMovidoDireita {
+    transform: translateX(-280px);
+    transition: transform 0.5s ease-in-out
+}

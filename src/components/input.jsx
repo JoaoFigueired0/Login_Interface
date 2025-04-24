@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 function Input(props) {
     return (
         <div className="flex flex-col w-[250px] ml-[5%]">
